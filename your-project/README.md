@@ -28,8 +28,8 @@ I used the dataset from Kaggle (https://www.kaggle.com/murderaccountability/homi
 ## Workflow
 The workflow has been the following:
 1. Find the data.
-2. Clean data
-3. Plot data
+2. Data cleaning
+3. Plotting with Tableau
 4. See patterns
 5. Find more data on prisons to draw more meaningful insights
 6. Presentation & final conclusions
