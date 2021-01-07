@@ -36,6 +36,7 @@ The workflow has been the following:
 
 ## Organization
 As for the organization you can find the trello link below. It consists of numerous tags ans steps to make sure I was not missing anything.
+Note: the repository includes numerous csv files used in order to plot results. These files are often compressed in zip files. 
 
 In order to know more about the data and racial disparity in prisons go to https://www.sentencingproject.org/
 
